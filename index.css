@@ -1,0 +1,17 @@
+body
+    {
+        background-color:gray
+    }
+#header
+    {
+        text-align:center;
+        color:aqua;    
+    }
+#footer
+    {
+        background-color:black;
+        text-align:center;
+        color:crimson;
+        font-style:italic;
+    
+    }
